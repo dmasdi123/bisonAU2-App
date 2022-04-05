@@ -25,5 +25,3 @@ function Bison(sopir, trayek, penumpang, kas) {
     }
   };
 }
-
-var bison1 = new Bison("Cak Idris", ["Surabaya", "Sidoarjo"], [], 0);
